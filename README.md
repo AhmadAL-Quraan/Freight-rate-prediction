@@ -1,6 +1,8 @@
 # Freight Rate Prediction Challenge
 
-See `Freight_Rate_ML_Assessment.pdf` for the assessment instructions.
+* A machine learning model to predict the Freight rate based on unhandled data.
+* A data cleaning and analysis were made with previous assumptions to handle the predictions.
+* Data where given in `./data` directory.
 
 ## What to do
 
@@ -16,4 +18,7 @@ python score.py --predictions validation_predictions.csv --december-predictions 
 ```
 
 
+
+
+## Training result 
 ![](./scorer_results/candidate_december.png)
